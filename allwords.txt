@@ -1,20 +1,19 @@
-eloquent 
-serendipity
-mellifluous
-ephemeral
-sonder
-ethereal 
-halcyon 
-luminous 
-labyrinthine 
-zephyr
-ineffable 
-petrichor 
-sonder 
-euphoria 
-sonorous
-lilt 
-gossamer 
-panacea 
-epiphany
-solitude
+eloquent	adjective	fluent or persuasive in speaking or writing
+serendipity	noun	the occurrence of happy or beneficial events by chance
+mellifluous	adjective	pleasantly smooth and musical to hear
+ephemeral	adjective	lasting for a very short time
+sonder	noun	the realization that each passerby has a life as vivid and complex as your own
+ethereal	adjective	extremely delicate and light in a way that seems too perfect for this world
+halcyon	adjective	denoting a period of time in the past that was idyllically happy and peaceful
+luminous	adjective	full of or shedding light; bright or shining
+labyrinthine	adjective	like a labyrinth; intricate and confusing
+zephyr	noun	a soft gentle breeze
+ineffable	adjective	too great or extreme to be expressed in words
+petrichor	noun	the pleasant earthy smell after rain
+euphoria	noun	a feeling or state of intense excitement and happiness
+sonorous	adjective	(voice or sound) imposingly deep and full
+lilt	noun	a characteristic rising and falling of the voice when speaking; a pleasant gentle accent
+gossamer	noun	something very light, thin, and insubstantial or delicate
+panacea	noun	a solution or remedy for all difficulties or diseases
+epiphany	noun	a sudden revelation or insight
+solitude	noun	the state or situation of being alone
